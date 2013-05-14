@@ -1,26 +1,38 @@
 [
     {
-        "account":	"Chad0989",
+        "account":    "Flyhalf205",
         "repository":	"device_htc_vigor",
         "target_path":	"device/htc/vigor",
         "revision":	"cm-10.1"
     },
     {
-        "account":	"Chad0989",
+        "account":	"Flyhalf205",
         "repository":	"android_device_htc_msm8660-common",
         "target_path":	"device/htc/msm8660-common",
         "revision":	"cm-10.1"
     },
     {
-        "account":	"shrike1978",
-        "repository":	"ermahgerd_kernel_vigor",
+        "account":	"Flyhalf205",
+        "repository":	"vigor_aosp_kernel",
         "target_path":	"kernel/htc/vigor-3.0",
-        "revision":	"jellybean"
+        "revision":	"cm-10.1"
     },
     {
-        "account":	"Chad0989",
+        "account":	"Flyhalf205",
         "repository":	"vendor_htc_vigor",
         "target_path":	"vendor/htc/vigor",
+        "revision":	"cm-10.1"
+    }
+	{
+        "account":	"Flyhalf205",
+        "repository":	"android_hardware_qcom_display-legacy",
+        "target_path":	"hardware/qcom/display-legacy",
+        "revision":	"cm-10.1"
+    },
+	{
+        "account":	"Flyhalf205",
+        "repository":	"android_hardware_qcom_media-legacy",
+        "target_path":	"hardware/qcom/media-legacy",
         "revision":	"cm-10.1"
     }
 ]
